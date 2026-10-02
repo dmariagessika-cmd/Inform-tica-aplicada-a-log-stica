@@ -28,7 +28,8 @@ Razão social por capacidade
 Razão social por veículos
 Razão social por situação da ligação
 
-https://github.com/dmariagessika-cmd/Inform-tica-aplicada-a-log-stica/commit/70d848f060cc7505738166ddf6c5716d5fa44aaf
+[Clique aqui para ver a tabela do excel](https://github.com/dmariagessika-cmd/Inform-tica-aplicada-a-log-stica/commit/70d848f060cc7505738166ddf6c5716d5fa44aaf
+)
 
 <img width="1133" height="694" alt="image" src="https://github.com/user-attachments/assets/4eb23540-6a4e-46a7-8eec-473c7182abc6" />
 
