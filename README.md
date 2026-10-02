@@ -8,6 +8,8 @@ link: https://canva.link/6ffmjot4cbf1fur
 ## Limpeza tabela ANTT TRANSPORTES MULTIMODAIS
 Baixei a tabela e realizei a limpeza dos dados para pode fazer os gráficos no Power BI
 
+[Clique aqui](https://centropaulasouza-my.sharepoint.com/:x:/r/personal/maria_silva1375_aluno_cps_sp_gov_br/Documents/Trabalho%20de%20logistica.xlsx?d=w45e1e9d30dd74db1924823193e7a098f&csf=1&web=1&e=vV1qED&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0))
+
  https://centropaulasouza-my.sharepoint.com/:x:/r/personal/maria_silva1375_aluno_cps_sp_gov_br/Documents/Trabalho%20de%20logistica.xlsx?d=w45e1e9d30dd74db1924823193e7a098f&csf=1&web=1&e=vV1qED&nav=MTVfezAwMDAwMDAwLTAwMDEtMDAwMC0wMDAwLTAwMDAwMDAwMDAwMH0
 ## Análise de dados ANTT via Power BI
 Dashboard respondendo as perguntas:
