@@ -18,7 +18,7 @@ Quantas empresas aderiram ao decreto?
 Quantas empresas estão certificadas até determinado ano?
 <img width="1357" height="737" alt="image" src="https://github.com/user-attachments/assets/db753e86-bf4f-4e19-9775-a7dace69c385" />
 
-# 🧹 Limpeza tabela TRANSPORTES EMPRESAS DO BRASIL PARA O PERU
+#  Limpeza tabela TRANSPORTES EMPRESAS DO BRASIL PARA O PERU
 Baixei a tabela e realizei a limpeza dos dados para pode fazer os gráficos no Power BI
 Na mesma realizei 4 gráficos:
 Razão social por tráfego
