@@ -33,3 +33,6 @@ Razão social por situação da ligação
 
 <img width="1133" height="694" alt="image" src="https://github.com/user-attachments/assets/4eb23540-6a4e-46a7-8eec-473c7182abc6" />
 
+Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/daa134e0-e9a5-4e2d-a676-da2e516dd45a" />
+
+
