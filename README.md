@@ -37,4 +37,6 @@ Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="http
 
 ## Apresentação do vídeo da prova 13-11
 
-[▶️ Assistir ao vídeo]([COLE_O_LINK_AQUI](https://drive.google.com/file/d/1oMYwNj2f73Fhv7DpyhayIcKAWK5WXMJ7/view?usp=sharing))
+
+
+[▶️ ASSISTA AO VÍDEO DA APRESENTAÇÃO](https://drive.google.com/file/d/1oMYwNj2f73Fhv7DpyhayIcKAWK5WXMJ7/view?usp=sharing)
