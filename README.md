@@ -35,4 +35,6 @@ Razão social por situação da ligação
 
 Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/daa134e0-e9a5-4e2d-a676-da2e516dd45a" />
 
+## Apresentação do vídeo da prova 13-11
 
+[▶️ Assistir ao vídeo]([COLE_O_LINK_AQUI](https://drive.google.com/file/d/1oMYwNj2f73Fhv7DpyhayIcKAWK5WXMJ7/view?usp=sharing))
