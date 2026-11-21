@@ -31,6 +31,8 @@ Razão social por situação da ligação
 [Clique aqui para ver a tabela do excel](https://github.com/dmariagessika-cmd/Inform-tica-aplicada-a-log-stica/commit/70d848f060cc7505738166ddf6c5716d5fa44aaf
 )
 
+![Certificado Power BI](file:///C:/Users/lulop/Downloads/certificado-aplicacao-do-power-bi-para-aprimoramento-da-gestao.pdf)
+
 <img width="1133" height="694" alt="image" src="https://github.com/user-attachments/assets/4eb23540-6a4e-46a7-8eec-473c7182abc6" />
 
 Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/daa134e0-e9a5-4e2d-a676-da2e516dd45a" />
