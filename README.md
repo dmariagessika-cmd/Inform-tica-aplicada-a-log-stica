@@ -52,6 +52,7 @@ Confira a gravação de tela apresentando o funcionamento do Observatório de In
 
 Baixei a tabela e realizei a limpeza dos dados para pode fazer os gráficos no Power BI
 Na mesma realizei 3 gráficos:
+
 Países com maior expectativa de vida
 Evolução de expectativa de vida ao longos dos anos 
 Número de países registrados por ano
