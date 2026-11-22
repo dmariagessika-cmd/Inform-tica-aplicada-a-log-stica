@@ -49,6 +49,13 @@ Confira a gravação de tela apresentando o funcionamento do Observatório de In
 # Projeto dados sobre expectativa de vida (Power BI e Excel)
 
 [Planilha no Excel Online](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/maria_silva1375_aluno_cps_sp_gov_br/cQqzlSGjncrMRbi4t3Jf05LXEgUBY2pLLV3uIXlkEEaj-W624w)
+
+Baixei a tabela e realizei a limpeza dos dados para pode fazer os gráficos no Power BI
+Na mesma realizei 3 gráficos:
+Países com maior expectativa de vida
+Evolução de expectativa de vida ao longos dos anos 
+Número de países registrados por ano
+
 <img width="1222" height="875" alt="image" src="https://github.com/user-attachments/assets/f6ca0e57-26eb-4b16-9b44-decbf53cb44b" />
 
 
