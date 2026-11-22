@@ -31,7 +31,6 @@ Razão social por situação da ligação
 [Clique aqui para ver a tabela do excel](https://github.com/dmariagessika-cmd/Inform-tica-aplicada-a-log-stica/commit/70d848f060cc7505738166ddf6c5716d5fa44aaf
 )
 
-![Certificado Power BI](file:///C:/Users/lulop/Downloads/certificado-aplicacao-do-power-bi-para-aprimoramento-da-gestao.pdf)
 
 <img width="1133" height="694" alt="image" src="https://github.com/user-attachments/assets/4eb23540-6a4e-46a7-8eec-473c7182abc6" />
 
@@ -49,8 +48,8 @@ Confira a gravação de tela apresentando o funcionamento do Observatório de In
 
 # Projeto dados sobre expectativa de vida (Power BI e Excel)
 
-[Abrir planilha de notas dos estudantes no Excel]([https://seu-link-aqui](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/maria_silva1375_aluno_cps_sp_gov_br/cQrtqo7MYdTnT6Pc6zlfcQbjEgUB7GU8O0eu_7I7NMtZuA3SMA))
-<img width="1236" height="727" alt="image" src="https://github.com/user-attachments/assets/b932ba10-5625-455e-8a99-03e3849cd293" />
+[Planilha no Excel Online](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/maria_silva1375_aluno_cps_sp_gov_br/cQqzlSGjncrMRbi4t3Jf05LXEgUBY2pLLV3uIXlkEEaj-W624w)
+<img width="1222" height="875" alt="image" src="https://github.com/user-attachments/assets/f6ca0e57-26eb-4b16-9b44-decbf53cb44b" />
 
 
 
