@@ -48,7 +48,7 @@ Confira a gravação de tela apresentando o funcionamento do Observatório de In
 [▶️ Assistir ao vídeo de demonstração](https://drive.google.com/file/d/1DOM4jgeMIcW_bUFrW456V_RoNzITpF_G/view?usp=sharing)
 
 
-# Projeto de Regressão Linear - Desempenho dos Estudantes
+# Projeto de Regressão Linear - Desempenho dos Estudantes (Google Colab)
 
 ## Objetivo
 Desenvolver um modelo de Regressão Linear utilizando Python e Google Colab para analisar e prever o desempenho acadêmico dos estudantes.
@@ -67,6 +67,14 @@ Desenvolver um modelo de Regressão Linear utilizando Python e Google Colab para
 ## Acesso ao projeto no Google Colab
 
 [CLIQUE AQUI PARA ACESSAR MEU PROJETO](https://colab.research.google.com/drive/1VjjuRA718_OpDfsHYwp2AKM9Gr08Ku96?usp=sharing)
+<img width="1863" height="913" alt="image" src="https://github.com/user-attachments/assets/902664c7-11fb-456b-ab1d-104bb10581e7" />
+
+
+# Projeto de Regressão Linear - Desempenho dos Estudantes (Excel)
+
+
+<img width="1912" height="857" alt="image" src="https://github.com/user-attachments/assets/9a4fedb5-b384-4417-9bcc-0dacd3dbf9a0" />
+
 
 
 ## Apresentação do vídeo da prova 13-11
