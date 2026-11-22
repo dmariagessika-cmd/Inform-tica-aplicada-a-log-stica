@@ -47,6 +47,12 @@ Confira a gravação de tela apresentando o funcionamento do Observatório de In
 
 [▶️ Assistir ao vídeo de demonstração](https://drive.google.com/file/d/1DOM4jgeMIcW_bUFrW456V_RoNzITpF_G/view?usp=sharing)
 
+# Projeto dados sobre expectativa de vida (Power BI e Excel)
+
+[Abrir planilha de notas dos estudantes no Excel]([https://seu-link-aqui](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/maria_silva1375_aluno_cps_sp_gov_br/cQrtqo7MYdTnT6Pc6zlfcQbjEgUB7GU8O0eu_7I7NMtZuA3SMA))
+<img width="1236" height="727" alt="image" src="https://github.com/user-attachments/assets/b932ba10-5625-455e-8a99-03e3849cd293" />
+
+
 
 # Projeto de Regressão Linear - Desempenho dos Estudantes (Google Colab)
 
@@ -67,14 +73,15 @@ Desenvolver um modelo de Regressão Linear utilizando Python e Google Colab para
 ## Acesso ao projeto no Google Colab
 
 [CLIQUE AQUI PARA ACESSAR MEU PROJETO](https://colab.research.google.com/drive/1VjjuRA718_OpDfsHYwp2AKM9Gr08Ku96?usp=sharing)
-<img width="1863" height="913" alt="image" src="https://github.com/user-attachments/assets/902664c7-11fb-456b-ab1d-104bb10581e7" />
+<img width="690" height="502" alt="image" src="https://github.com/user-attachments/assets/05e08e7d-b13f-45b2-92f8-2c1962ac0945" />
+
 
 
 # Projeto de Regressão Linear - Desempenho dos Estudantes (Excel)
 
 [acessar gráfico dispersao estudantes](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/maria_silva1375_aluno_cps_sp_gov_br/cQrtqo7MYdTnT6Pc6zlfcQbjEgUB7GU8O0eu_7I7NMtZuA3SMA)
 
-<img width="1912" height="857" alt="image" src="https://github.com/user-attachments/assets/9a4fedb5-b384-4417-9bcc-0dacd3dbf9a0" />
+<img width="1707" height="665" alt="image" src="https://github.com/user-attachments/assets/9fe399a0-033b-40a0-af25-51e64c9c4305" />
 
 Não, os gráficos são ficaram iguais, O do Excel é uma regressão linear simples, que usa só as horas de estudo como variável explicativa e todos os 200 alunos. Resultado: Nota = 23,62 + 1,63 × horas, com R² = 0,60.
 Já o do Google Colab é uma regressão linear que mostrou maior análise, que usa horas de estudo, horas de sono, frequência e notas anteriores, treinada com 80% dos dados e avaliada em 20% (conjunto de teste). Resultado: R² = 0,85
