@@ -37,9 +37,11 @@ Razão social por situação da ligação
 
 Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="https://github.com/user-attachments/assets/daa134e0-e9a5-4e2d-a676-da2e516dd45a" />
 
+## Certificado curso Power BI
+
 ![Certificado curso Power BI](certificado-aplicacao-do-power-bi-para-aprimoramento-da-gestao.pdf)
 
-## 🎥 Vídeo de Demonstração do Power BI - Bandeiras e Mapa, onde mostra a interação das bandeiras com o mapa
+## Vídeo de Demonstração do Power BI - Bandeiras e Mapa, onde mostra a interação das bandeiras com o mapa
 
 Confira a gravação de tela apresentando o funcionamento do Observatório de Inovação:
 
