@@ -54,7 +54,9 @@ Baixei a tabela e realizei a limpeza dos dados para pode fazer os gráficos no P
 Na mesma realizei 3 gráficos:
 
 Países com maior expectativa de vida
-Evolução de expectativa de vida ao longos dos anos 
+
+Evolução de expectativa de vida ao longos dos anos
+
 Número de países registrados por ano
 
 <img width="1222" height="875" alt="image" src="https://github.com/user-attachments/assets/f6ca0e57-26eb-4b16-9b44-decbf53cb44b" />
