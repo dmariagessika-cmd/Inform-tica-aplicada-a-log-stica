@@ -39,6 +39,12 @@ Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="http
 
 ![Certificado curso Power BI](certificado-aplicacao-do-power-bi-para-aprimoramento-da-gestao.pdf)
 
+## 🎥 Vídeo de Demonstração do Power BI - Bandeiras e Mapa, onde mostra a interação das bandeiras com o mapa
+
+Confira a gravação de tela apresentando o funcionamento do Observatório de Inovação:
+
+[▶️ Assistir ao vídeo de demonstração]([COLE_AQUI_O_LINK_DO_GOOGLE_DRIVE](https://drive.google.com/file/d/1DOM4jgeMIcW_bUFrW456V_RoNzITpF_G/view?usp=sharing))
+
 ## Apresentação do vídeo da prova 13-11
 
 
