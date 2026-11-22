@@ -72,8 +72,12 @@ Desenvolver um modelo de Regressão Linear utilizando Python e Google Colab para
 
 # Projeto de Regressão Linear - Desempenho dos Estudantes (Excel)
 
+[acessar gráfico dispersao estudantes](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/maria_silva1375_aluno_cps_sp_gov_br/cQrtqo7MYdTnT6Pc6zlfcQbjEgUB7GU8O0eu_7I7NMtZuA3SMA)
 
 <img width="1912" height="857" alt="image" src="https://github.com/user-attachments/assets/9a4fedb5-b384-4417-9bcc-0dacd3dbf9a0" />
+
+Não, os gráficos são ficaram iguais, O do Excel é uma regressão linear simples, que usa só as horas de estudo como variável explicativa e todos os 200 alunos. Resultado: Nota = 23,62 + 1,63 × horas, com R² = 0,60.
+Já o do Google Colab é uma regressão linear que mostrou maior análise, que usa horas de estudo, horas de sono, frequência e notas anteriores, treinada com 80% dos dados e avaliada em 20% (conjunto de teste). Resultado: R² = 0,85
 
 
 
