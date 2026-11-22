@@ -43,7 +43,7 @@ Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="http
 
 Confira a gravação de tela apresentando o funcionamento do Observatório de Inovação:
 
-[▶️ Assistir ao vídeo de demonstração]((https://drive.google.com/file/d/1DOM4jgeMIcW_bUFrW456V_RoNzITpF_G/view?usp=sharing))
+[▶️ Assistir ao vídeo de demonstração](https://drive.google.com/file/d/1DOM4jgeMIcW_bUFrW456V_RoNzITpF_G/view?usp=sharing)
 
 ## Apresentação do vídeo da prova 13-11
 
