@@ -40,13 +40,25 @@ Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="http
 
 ![Certificado curso Power BI](certificado-aplicacao-do-power-bi-para-aprimoramento-da-gestao.pdf)
 
+## Gráficos de dispersão (Colab e Excel) Ice-Cream Kaggle
+
+Google Colab
+
+<img width="1078" height="697" alt="image" src="https://github.com/user-attachments/assets/f3733caa-779d-4e34-b498-e7a8afbbbb81" />
+
+Excel
+
+<img width="1051" height="657" alt="image" src="https://github.com/user-attachments/assets/ca9d3502-82d5-4782-9127-be988ed5e244" />
+
+
+
 ## Vídeo de Demonstração do Power BI - Bandeiras e Mapa, onde mostra a interação das bandeiras com o mapa
 
 Confira a gravação de tela apresentando o funcionamento do Observatório de Inovação:
 
 [▶️ Assistir ao vídeo de demonstração](https://drive.google.com/file/d/1DOM4jgeMIcW_bUFrW456V_RoNzITpF_G/view?usp=sharing)
 
-# Projeto dados sobre expectativa de vida (Power BI e Excel)
+# Dados sobre expectativa de vida (Power BI e Excel)
 
 [Planilha no Excel Online](https://centropaulasouza-my.sharepoint.com/:x:/g/personal/maria_silva1375_aluno_cps_sp_gov_br/cQqzlSGjncrMRbi4t3Jf05LXEgUBY2pLLV3uIXlkEEaj-W624w)
 
