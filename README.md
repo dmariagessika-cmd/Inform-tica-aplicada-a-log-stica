@@ -44,6 +44,8 @@ Prova - questão 1 - 13/11 <img width="1920" height="1077" alt="image" src="http
 
 Google Colab
 
+Acesse meu projeto:
+CLIQUE AQUI PARA ACESSAR O GOOGLE COLAB
 <img width="1078" height="697" alt="image" src="https://github.com/user-attachments/assets/f3733caa-779d-4e34-b498-e7a8afbbbb81" />
 
 Excel
