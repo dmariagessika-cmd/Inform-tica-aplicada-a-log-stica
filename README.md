@@ -48,7 +48,7 @@ Google Colab
 <img width="1078" height="697" alt="image" src="https://github.com/user-attachments/assets/f3733caa-779d-4e34-b498-e7a8afbbbb81" />
 
 Excel
-Ice Cream.xlsx
+
 <img width="1051" height="657" alt="image" src="https://github.com/user-attachments/assets/ca9d3502-82d5-4782-9127-be988ed5e244" />
 
 
